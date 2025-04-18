@@ -1,6 +1,6 @@
 # Constrained Unlearning for LLM via Knowledge Isolation.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2301.12345-b31b1b.svg)](https://arxiv.org/abs/2504.12996)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.12996-b31b1b.svg)](https://arxiv.org/abs/2504.12996)
 
 Code repository for the paper: **SHA256 at SemEval-2025 Task 4: Selective Amnesia – Constrained Unlearning for Large Language Models via Knowledge Isolation**
 
