@@ -1,5 +1,7 @@
 # Constrained Unlearning for LLM via Knowledge Isolation.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2301.12345-b31b1b.svg)](https://arxiv.org/abs/2504.12996)
+
 Code repository for the paper: **SHA256 at SemEval-2025 Task 4: Selective Amnesia – Constrained Unlearning for Large Language Models via Knowledge Isolation**
 
 Authors: Saransh Agrawal, Kuan-Hao Huang (Texas A&M University)
@@ -103,7 +105,8 @@ If you use the code or ideas from this repository, please cite our paper:
   title={SHA256 at {SemEval}-2025 Task 4: Selective Amnesia -- Constrained Unlearning for Large Language Models via Knowledge Isolation},
   author={Agrawal, Saransh and Huang, Kuan-Hao},
   booktitle={Proceedings of the The 19th International Workshop on Semantic Evaluation (SemEval), 2025},
-  year={2025}
+  year={2025},
+  url={https://arxiv.org/abs/2504.12996}
 }
 ```
 ## Acknowledgments
